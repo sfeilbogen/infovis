@@ -1,5 +1,5 @@
 
-* nuanced judgments
-* visual encodings
-* 1D length
-* cliques
+# nuanced judgments
+# visual encodings
+# 1D length
+# cliques
