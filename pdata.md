@@ -1,3 +1,4 @@
+# personal data
 * tema: medio de transporte utilizado en julio-agoso 
-* [datos]  
-* 1er idea de viz: 
+* [datos](   
+* [1er idea de viz](
