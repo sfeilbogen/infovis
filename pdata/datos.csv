@@ -1,0 +1,49 @@
+actividad,medio de transporte,momento del dia,fecha,lugar,distancia desde mi casa (en metros),tiempo del recorrido (en minutos),latitud ,longitud
+familia,caminando,tarde,4/07/2021,Plaza francia,450,5,-34.584.742.184.243.700,-5.839.328.329.099.340
+familia,caminando,tarde,4/07/2021,Plaza francia,450,5,-34.584.742.184.243.700,-5.839.328.329.099.340
+dentista,coelctivo,tarde,12/07/2021,Araoz 2330,3000,30,-3.458.692.809.121.880,-5.841.773.563.326.980
+dentista,coelctivo,tarde,12/07/2021,Araoz 2330,3000,30,-3.458.692.809.121.880,-5.841.773.563.326.980
+amigos ,automovil,noche,17/07/2021," Malabia 1583,",3700,14,-34.590.846.596.540.700,-5.842.715.748.729.800
+amigos ,automovil,noche,17/07/2021," Malabia 1583,",3700,14,-34.590.846.596.540.700,-5.842.715.748.729.800
+amigos,automovil,noche,22/07/2021,Armenia 1744,3800,20,-34.588.814.085.569.800,-5.842.680.583.147.490
+amigos,automovil,noche,22/07/2021,Armenia 1744,3800,20,-34.588.814.085.569.800,-5.842.680.583.147.490
+amigos,coelctivo,dia,22/07/2021,Libertador 4984,6200,24,-34.563.976.596.497.700,-5.843.643.631.500.880
+amigos,coelctivo,dia,22/07/2021,Libertador 4984,6200,24,-34.563.976.596.497.700,-5.843.643.631.500.880
+amigos,automovil,noche ,24/07/2021,"Av. Juramento 2995, C1428 CABA",7400,20,-34.565.106.222.656.500,-5.846.224.490.643.020
+amigos,automovil,noche,24/07/2021,"Av. Juramento 2995, C1428 CABA",7400,20,-34.565.106.222.656.500,-5.846.224.490.643.020
+amigos ,caminando,dia,26/07/2021,"Av. Pres. Manuel Quintana 595, C1129ABB CABA",1100,15,-3.458.744.733.082.730,-5.839.074.761.299.990
+amigos,caminando,dia,26/07/2021,"Av. Pres. Manuel Quintana 595, C1129ABB CABA",1100,15,-3.458.744.733.082.730,-5.839.074.761.299.990
+dentista,coelctivo,dia,29/07/2021,Araoz 2330,3000,30,-3.458.692.809.121.880,-5.841.773.563.326.980
+dentista,coelctivo,dia,29/07/2021,Aaraoz 2330,3000,30,-3.458.692.809.121.880,-5.841.773.563.326.980
+amigos,automovil,noche,29/07/2021,Armenia 1744,3800,20,-34.588.814.085.569.800,-5.842.680.583.147.490
+amigos,automovil,noche,29/07/2021,Armenia 1744,3800,20,-34.588.814.085.569.800,-5.842.680.583.147.490
+amigos,caminando,dia,30/07/2021,Junín 1760,2000,25,-3.458.742.086.793.300,-5.839.351.254.287.370
+amigos,caminando,dia,30/07/2021,Junín 1760,2000,25,-3.458.742.086.793.300,-5.839.351.254.287.370
+shabat,caminando,noche,30/07/2021,Larrea 755,850,11,-3.459.999.734.482.840,-5.840.234.739.633.360
+shabat,caminando,noche,30/07/2021,Larrea 755,850,11,-3.459.999.734.482.840,-5.840.234.739.633.360
+varios,bicicleta,dia,6/08/2021,Paseo del rosedal,3000,11,-34.570.564.691.389.800,-58.417.260.748.054.200
+varios,bicicleta,dia,6/08/2021,Paseo del rosedal,3000,11,-34.570.564.691.389.800,-58.417.260.748.054.200
+familia,bicicleta,dia,7/08/2021,"Monumento a La Carta Magna y las Cuatro Regiones Argentinas - Monumento de los españoles, Avenida del Libertador, Buenos Aires",2700,10,-3.457.504.157.011.780,-584.150.640.645.171
+familia,bicicleta,dia,7/08/2021,"Monumento a La Carta Magna y las Cuatro Regiones Argentinas - Monumento de los españoles, Avenida del Libertador, Buenos Aires",2700,10,-3.457.504.157.011.780,-584.150.640.645.171
+amigos,caminando,dia,6/08/2021,"French, C1425 CABA",1500,19,-3.458.388.521.805.580,-5.840.882.124.586.620
+amigos,caminando,dia,6/08/2021,"French, C1425 CABA",1500,19,-3.458.388.521.805.580,-5.840.882.124.586.620
+amigos,caminando,noche,6/08/2021,"Vicente López 2050,",350,5,-34.589.011.733.806.500,-5.839.379.665.902.420
+amigos,caminando,noche,6/08/2021,"Vicente López 2050,",350,5,-34.589.011.733.806.500,-5.839.379.665.902.420
+amigos,coelctivo,dia,13/08/2021,"Avenida Luis María Campos, Maure y, C1426 Buenos Aires",4800,17,-34.567.536.635.064,-5.843.714.287.944.190
+amigos,coelctivo,dia,13/08/2021,"Avenida Luis María Campos, Maure y, C1426 Buenos Aires",4800,17,-34.567.536.635.064,-5.843.714.287.944.190
+amigos,automovil,noche,13/08/2021,Armenia 1744,3800,20,-34.588.814.085.569.800,-5.842.680.583.147.490
+amigos,automovil,noche ,13/08/2021,Armenia 1744,3800,20,-34.588.814.085.569.800,-5.842.680.583.147.490
+familia,caminando,dia,14/08/2021,Plaza francia,450,5,-34.584.742.184.243.700,-5.839.328.329.099.340
+familia,caminando,dia,14/08/2021,Plaza francia,450,5,-34.584.742.184.243.700,-5.839.328.329.099.340
+familia,caminando,dia,15/08/2021,"Larrea 1541, C1117 ABO, Buenos Aires",450,6,-34.589.565.784.964.100,-5.839.819.253.515.520
+familia,caminando,dia,15/08/2021,"Larrea 1541, C1117 ABO, Buenos Aires",450,6,-34.589.565.784.964.100,-5.839.819.253.515.520
+amigos,coelctivo,dia,21/08/2021,"Lagos de Regatas || Palermo, Av. Ernesto Tornquist 80, Buenos Aires",6600,37,-34.557.398.584.267.400,-5.843.429.564.306.520
+amigos,coelctivo,dia,21/08/2021,"Lagos de Regatas || Palermo, Av. Ernesto Tornquist 80, Buenos Aires",6600,37,-34.557.398.584.267.400,-5.843.429.564.306.520
+amigos,caminando,dia,21/08/2021,"Plaza Vicente López y Planes, Recoleta, Buenos Aires",1000,13,-3.459.342.660.915.510,-58.389.356.255.689.200
+amigos,caminando,dia,21/08/2021,"Plaza Vicente López y Planes, Recoleta, Buenos Aires",1000,13,-3.459.342.660.915.510,-58.389.356.255.689.200
+amigos,automovil,dia,27/08/2021,Paseo del rosedal,3000,11,-34.570.564.691.389.800,-58.417.260.748.054.200
+amigos,automovil,dia,27/08/2021,Paseo del rosedal,3000,11,-34.570.564.691.389.800,-58.417.260.748.054.200
+dentista,coelctivo,dia,27/08/2021,Araoz 2330,3000,30,-3.458.692.809.121.880,-5.841.773.563.326.980
+dentista,coelctivo,dia,27/08/2021,Araoz 2330,3000,30,-3.458.692.809.121.880,-5.841.773.563.326.980
+varios,automovil,dia,28/08/2021,"Velodromo de la Ciudad de Buenos Aires, C1425 CABA",4200,7,-3.456.657.972.605.850,-5.841.550.193.159.940
+varios,automovil,dia,28/08/2021,"Velodromo de la Ciudad de Buenos Aires, C1425 CABA",4200,7,-3.456.657.972.605.850,-5.841.550.193.159.940
