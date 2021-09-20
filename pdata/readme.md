@@ -1,6 +1,6 @@
 # Medios de transporte
 
-![google maps](googlemaps.png)
+![google_maps](googlemaps.png)
 * [data](https://docs.google.com/spreadsheets/d/1SEk3X8qmX3QJKoBYUVGRvRdifBds_npVWrBtjYU1x9k/edit?usp=sharing)
 * [Tableau public-idea inicial](
 
