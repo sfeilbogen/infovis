@@ -28,8 +28,7 @@ Los datos crudos fueron subidos en un .csv. En columnas se encuentra:
 
 *Visualización 1:Maximas distancias recorridas por medio de transporte*
 
-Realice un grafico de barras horizontales para visualizar según el medio de transporte cuales fueron las maximas distancias recorridas del mismo junto a que tipo de actividades fueron. Agregue de la sección de análisis el promedio y una linea constante. 
-En las filas se diferencia en medio de transporte y tipo de actividad y en las columnas las maximas distancias recorridas desde mi casa.
+Realice un grafico de barras horizontales para visualizar según el medio de transporte cuales fueron las maximas distancias recorridas del mismo, junto a que tipo de actividades fueron. Agregue de la sección de análisis el promedio y una linea constante.En las filas se diferencia en medio de transporte y tipo de actividad y en las columnas las maximas distancias recorridas desde mi casa.
 
 *Visualización 2:Distancias recorridas por dirección con medio de transporte.*
 
