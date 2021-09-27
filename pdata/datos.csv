@@ -1,50 +1,50 @@
 
-actividad,medio de transporte,momento del dia,fecha,lugar,distancia desde mi casa (en metros),tiempo del recorrido (en minutos),latitud ,longitud
-familia,caminando,tarde,4/07/2021,Plaza francia,450,5,-34.5848173,-58.3953647
-familia,caminando,tarde,4/07/2021,Plaza francia,450,5,-34.5848174,-58.3953648
-dentista,coelctivo,tarde,12/07/2021,Araoz 2330,3000,30,-34.5872755,-58.4198527
-dentista,coelctivo,tarde,12/07/2021,Araoz 2330,3000,30,-34.5872756,-58.4198528
-amigos ,automovil,noche,17/07/2021, Malabia 1583,3700,14,-34.5909747,-58.4293891
-amigos ,automovil,noche,17/07/2021, Malabia 1584,3700,14,-34.5909748,-58.4293892
-amigos,automovil,noche,22/07/2021,Armenia 1744,3800,20,-34.5888724,-58.4289991
-amigos,automovil,noche,22/07/2021,Armenia 1744,3800,20,-34.5888725,-58.4289992
-amigos,coelctivo,dia,22/07/2021,Libertador 4984,6200,24,-34.5640376,-58.4386741
-amigos,coelctivo,dia,22/07/2021,Libertador 4984,6200,24,-34.5640377,-58.4386742
-amigos,automovil,noche ,24/07/2021,Av. Juramento 2995,7400,20,-34.5652166,-58.4645025
-amigos,automovil,noche,24/07/2021,Av. Juramento 2996,7400,20,-34.5652167,-58.4645026
-amigos ,caminando,dia,26/07/2021,Av. Pres. Manuel Quintana 595,1100,15,-34.587672,-58.3928441
-amigos,caminando,dia,26/07/2021,Av. Pres. Manuel Quintana 595,1100,15,-34.587673,-58.3928442
-dentista,coelctivo,dia,29/07/2021,Araoz 2330,3000,30,-34.5872755,-58.4198527
-dentista,coelctivo,dia,29/07/2021,Aaraoz 2330,3000,30,-34.5872755,-58.4198527
-amigos,automovil,noche,29/07/2021,Armenia 1744,3800,20,-34.5888724,-58.4289991
-amigos,automovil,noche,29/07/2021,Armenia 1744,3800,20,-34.5888725,-58.4289992
-amigos,caminando,dia,30/07/2021,Junín 1760,2000,25,-34.5876897,-58.3957396
-amigos,caminando,dia,30/07/2021,Junín 1760,2000,25,-34.5876898,-58.3957397
-shabat,caminando,noche,30/07/2021,Larrea 755,850,11,-34.6000395,-58.4045592
-shabat,caminando,noche,30/07/2021,Larrea 755,850,11,-34.6000396,-58.4045593
-varios,bicicleta,dia,6/08/2021,Paseo del rosedal,3000,11,-34.5706462,-58.4194883
-varios,bicicleta,dia,6/08/2021,Paseo del rosedal,3000,11,-34.5706463,-58.4194884
-familia,bicicleta,dia,7/08/2021,"Monumento a La Carta Magna y las Cuatro Regiones Argentinas - Monumento de los españoles, Avenida del Libertador, Buenos Aires",2700,10,-34.5749556,"-58.4172407,17"
-familia,bicicleta,dia,7/08/2021,"Monumento a La Carta Magna y las Cuatro Regiones Argentinas - Monumento de los españoles, Avenida del Libertador, Buenos Aires",2700,10,-34.5749557,"-58.4172407,18"
-amigos,caminando,dia,6/08/2021,Jardín Botánico Carlos Thays,2600,32,-34.5845975,-58.4160512
-amigos,caminando,dia,6/08/2021,Jardín Botánico Carlos Thays,2600,32,-34.5845976,-58.4160513
-amigos,caminando,noche,6/08/2021,Vicente López 2050,350,5,-34.5891577,-58.3960636
-amigos,caminando,noche,6/08/2021,Vicente López 2050,350,5,-34.5891578,-58.3960637
-amigos,coelctivo,dia,13/08/2021,Avenida Luis María Campos & Maure,4800,17,-34.5683211,-58.4373788
-amigos,coelctivo,dia,13/08/2021,Avenida Luis María Campos & Maure,4800,17,-34.5683212,-58.4373789
-amigos,automovil,noche,13/08/2021,Armenia 1744,3800,20,-34.5888724,-58.4289991
-amigos,automovil,noche ,13/08/2021,Armenia 1744,3800,20,-34.5888725,-58.4289992
-familia,caminando,dia,14/08/2021,Plaza francia,450,5,-34.5848173,-58.3953647
-familia,caminando,dia,14/08/2021,Plaza francia,450,5,-34.5848174,-58.3953648
-familia,caminando,dia,15/08/2021,Larrea 1541,450,6,-34.5895666,-58.4003695
-familia,caminando,dia,15/08/2021,Larrea 1541,450,6,-34.5895667,-58.4003696
-amigos,coelctivo,dia,21/08/2021,Lagos de Regatas || Palermo,6600,37,-34.5573012,-58.4364659
-amigos,coelctivo,dia,21/08/2021,Lagos de Regatas || Palermo,6600,37,-34.5573013,-58.4364660
-amigos,caminando,dia,21/08/2021,Plaza Vicente López y Planes,1000,13,-34.5933156,-58.3915637
-amigos,caminando,dia,21/08/2021,Plaza Vicente López y Planes,1000,13,-34.5933157,-58.3915638
-amigos,automovil,dia,27/08/2021,Paseo del rosedal,3000,11,-34.5706462,-58.4194883
-amigos,automovil,dia,27/08/2021,Paseo del rosedal,3000,11,-34.5706463,-58.4194884
-dentista,coelctivo,dia,27/08/2021,Araoz 2330,3000,30,-34.5872755,-58.4198527
-dentista,coelctivo,dia,27/08/2021,Araoz 2330,3000,30,-34.5872755,-58.4198527
-varios,automovil,dia,28/08/2021,Velodromo de la Ciudad de Buenos Aires,4200,7,-34.5655252,-58.4175902
-varios,automovil,dia,28/08/2021,Velodromo de la Ciudad de Buenos Aires,4200,7,-34.5655253,-58.4175903
+actividad,medio de transporte,momento del dia,dia,mes,año,fecha,lugar,distancia desde mi casa (en metros),tiempo del recorrido (en minutos),latitud ,longitud
+familia,caminando,tarde,4,7,2021,4/07/2021,Plaza francia,450,5,"-34,5848173","-58,3953647"
+familia,caminando,tarde,4,7,2021,4/07/2021,Plaza francia,450,5,"-34,5848174","-58,3953648"
+dentista,coelctivo,tarde,12,7,2021,12/07/2021,Araoz 2330,3000,30,"-34,5872755","-58,4198527"
+dentista,coelctivo,tarde,12,7,2021,12/07/2021,Araoz 2330,3000,30,"-34,5872756","-58,4198528"
+amigos ,automovil,noche,17,7,2021,17/07/2021, Malabia 1583,3700,14,"-34,5909747","-58,4293891"
+amigos ,automovil,noche,17,7,2021,17/07/2021, Malabia 1584,3700,14,"-34,5909748","-58,4293892"
+amigos,automovil,noche,22,7,2021,22/07/2021,Armenia 1744,3800,20,"-34,5888724","-58,4289991"
+amigos,automovil,noche,22,7,2021,22/07/2021,Armenia 1744,3800,20,"-34,5888725","-58,4289992"
+amigos,coelctivo,dia,22,7,2021,22/07/2021,Libertador 4984,6200,24,"-34,5640376","-58,4386741"
+amigos,coelctivo,dia,22,7,2021,22/07/2021,Libertador 4984,6200,24,"-34,5640377","-58,4386742"
+amigos,automovil,noche ,24,7,2021,24/07/2021,Av. Juramento 2995,7400,20,"-34,5652166","-58,4645025"
+amigos,automovil,noche,24,7,2021,24/07/2021,Av. Juramento 2996,7400,20,"-34,5652167","-58,4645026"
+amigos ,caminando,dia,26,7,2021,26/07/2021,Av. Pres. Manuel Quintana 595,1100,15,"-34,587672","-58,3928441"
+amigos,caminando,dia,26,7,2021,26/07/2021,Av. Pres. Manuel Quintana 595,1100,15,"-34,587673","-58,3928442"
+dentista,coelctivo,dia,9,7,2021,9/07/2021,Araoz 2330,3000,30,"-34,5872755","-58,4198527"
+dentista,coelctivo,dia,29,7,2021,29/07/2021,Aaraoz 2330,3000,30,"-34,5872755","-58,4198527"
+amigos,automovil,noche,29,7,2021,29/07/2021,Armenia 1744,3800,20,"-34,5888724","-58,4289991"
+amigos,automovil,noche,29,7,2021,29/07/2021,Armenia 1744,3800,20,"-34,5888725","-58,4289992"
+amigos,caminando,dia,30,7,2021,30/07/2021,Junín 1760,2000,25,"-34,5876897","-58,3957396"
+amigos,caminando,dia,30,7,2021,30/07/2021,Junín 1760,2000,25,"-34,5876898","-58,3957397"
+shabat,caminando,noche,30,7,2021,30/07/2021,Larrea 755,850,11,"-34,6000395","-58,4045592"
+shabat,caminando,noche,30,7,2021,30/07/2021,Larrea 755,850,11,"-34,6000396","-58,4045593"
+varios,bicicleta,dia,6,8,2021,6/08/2021,Paseo del rosedal,3000,11,"-34,5706462","-58,4194883"
+varios,bicicleta,dia,6,8,2021,6/08/2021,Paseo del rosedal,3000,11,"-34,5706463","-58,4194884"
+familia,bicicleta,dia,7,8,2021,7/08/2021,"Monumento a La Carta Magna y las Cuatro Regiones Argentinas - Monumento de los españoles, Avenida del Libertador, Buenos Aires",2700,10,"-34,5749556","-58,4172407"
+familia,bicicleta,dia,7,8,2021,7/08/2021,"Monumento a La Carta Magna y las Cuatro Regiones Argentinas - Monumento de los españoles, Avenida del Libertador, Buenos Aires",2700,10,"-34,5749557","-58,4172407"
+amigos,caminando,dia,6,8,2021,6/08/2021,Jardín Botánico Carlos Thays,2600,32,"-34,5845975","-58,4160512"
+amigos,caminando,dia,6,8,2021,6/08/2021,Jardín Botánico Carlos Thays,2600,32,"-34,5845976","-58,4160513"
+amigos,caminando,noche,6,8,2021,6/08/2021,Vicente López 2050,350,5,"-34,5891577","-58,3960636"
+amigos,caminando,noche,6,8,2021,6/08/2021,Vicente López 2050,350,5,"-34,5891578","-58,3960637"
+amigos,coelctivo,dia,13,8,2021,13/08/2021,Avenida Luis María Campos & Maure,4800,17,"-34,5683211","-58,4373788"
+amigos,coelctivo,dia,13,8,2021,13/08/2021,Avenida Luis María Campos & Maure,4800,17,"-34,5683212","-58,4373789"
+amigos,automovil,noche,13,8,2021,13/08/2021,Armenia 1744,3800,20,"-34,5888724","-58,4289991"
+amigos,automovil,noche ,13,8,2021,13/08/2021,Armenia 1744,3800,20,"-34,5888725","-58,4289992"
+familia,caminando,dia,14,8,2021,14/08/2021,Plaza francia,450,5,"-34,5848173","-58,3953647"
+familia,caminando,dia,14,8,2021,14/08/2021,Plaza francia,450,5,"-34,5848174","-58,3953648"
+familia,caminando,dia,15,8,2021,15/08/2021,Larrea 1541,450,6,"-34,5895666","-58,4003695"
+familia,caminando,dia,15,8,2021,15/08/2021,Larrea 1541,450,6,"-34,5895667","-58,4003696"
+amigos,coelctivo,dia,21,8,2021,21/08/2021,Lagos de Regatas || Palermo,6600,37,"-34,5573012","-58,4364659"
+amigos,coelctivo,dia,21,8,2021,21/08/2021,Lagos de Regatas || Palermo,6600,37,"-34,5573013","-58,4364660"
+amigos,caminando,dia,21,8,2021,21/08/2021,Plaza Vicente López y Planes,1000,13,"-34,5933156","-58,3915637"
+amigos,caminando,dia,21,8,2021,21/08/2021,Plaza Vicente López y Planes,1000,13,"-34,5933157","-58,3915638"
+amigos,automovil,dia,27,8,2021,27/08/2021,Paseo del rosedal,3000,11,"-34,5706462","-58,4194883"
+amigos,automovil,dia,27,8,2021,27/08/2021,Paseo del rosedal,3000,11,"-34,5706463","-58,4194884"
+dentista,coelctivo,dia,27,8,2021,27/08/2021,Araoz 2330,3000,30,"-34,5872755","-58,4198527"
+dentista,coelctivo,dia,27,8,2021,27/08/2021,Araoz 2330,3000,30,"-34,5872755","-58,4198527"
+varios,automovil,dia,28,8,2021,28/08/2021,Velodromo de la Ciudad de Buenos Aires,4200,7,"-34,5655252","-58,4175902"
+varios,automovil,dia,28,8,2021,28/08/2021,Velodromo de la Ciudad de Buenos Aires,4200,7,"-34,5655253","-58,4175903"
