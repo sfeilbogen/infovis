@@ -5,6 +5,8 @@
 **Descripción:**
 En base a Google Calendar del mes de julio y agosto y utilizando Google Maps recolecté los eventos realizados y el medio de transporte que utilicé tanto para ir como para volver del mismo a mi dirección. Analicé qué tipo de actividad es (amigos, familia, dentista, shabat, varios), la fecha del evento, en que momento del día lo realicé (mañana/tarde/noche), su dirección y latitud y longitud. 
 
+![](https://sfeilbogen.github.io/infovis/pdata/googleimagen.png)
+
 ## Datos crudos
 
 Los datos crudos fueron subidos en un .csv. En columnas se encuentra: 
