@@ -1,6 +1,6 @@
 # Medios de transporte
 
-![google_maps](https://github.com/sfeilbogen/infovis/blob/gh-pages/googlemaps.png)
+![google_maps](https://sfeilbogen.github.io/infovis/blob/gh-pages/googlemaps.png)
 
 [Dashboard](https://sfeilbogen.github.io/infovis/pdata/dashboard.html)
  
