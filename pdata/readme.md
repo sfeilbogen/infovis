@@ -1,4 +1,4 @@
-# Medios de transporte
+# Medios de transporte utilizados en juio-agosto
 
 [Dashboard final](https://sfeilbogen.github.io/infovis/pdata/dashboard.html)
  
